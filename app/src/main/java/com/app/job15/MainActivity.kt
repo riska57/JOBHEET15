@@ -15,13 +15,13 @@ class MainActivity : AppCompatActivity() {
         val btnnis = findViewById<Button>(R.id.nis)
 
         btnnama.setOnClickListener {
-            Toast.makeText(this, "Ardian Muhammad Iqbal, Toast.LENGTH_SHORT).show()
+            Toast.makeText(this, "Riska Anggun anggriani", Toast.LENGTH_SHORT).show()
         }
         btnkelas.setOnClickListener {
             Toast.makeText(this, "XI PPLG 1", Toast.LENGTH_SHORT).show()
         }
         btnnis.setOnClickListener {
-            Toast.makeText(this, "2976", Toast.LENGTH_SHORT).show()
+            Toast.makeText(this, "3026", Toast.LENGTH_SHORT).show()
         }
 
     }
